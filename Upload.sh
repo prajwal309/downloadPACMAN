@@ -1,0 +1,1 @@
+rsync -uPr HST* pniraula@txe1-login.mit.edu:/home/gridsan/pniraula/disruptive_planets_shared/hst-stt/newData

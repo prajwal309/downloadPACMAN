@@ -1,0 +1,138 @@
+Error in downloading:HST_RHOCNC_STIS_CCD
+Error in downloading:HST_RHOCNC_STIS_CCD
+Successfully downloaded:HST_2MASSJ230629280502285_WFC3_IR,14500,WFC3/IR
+Successfully downloaded:HST_2MASSJ230629280502285_WFC3_IR,14873,WFC3/IR
+Error in downloading:HST_2MASSJ230629280502285_STIS_CCD
+Successfully downloaded:HST_2MASSJ230629280502285_WFC3_IR,15304,WFC3/IR
+Error in downloading:HST_55CANCRI_STIS_CCD
+Successfully downloaded:HST_55CANCRI_WFC3_IR,13665,WFC3/IR
+Successfully downloaded:HST_55CNC_WFC3_IR,14453,WFC3/IR
+Error in downloading:HST_55CANCRI_STIS_CCD
+Error in downloading:HST_55CNC_STIS_CCD
+Error in downloading:HST_55CNC_STIS_CCD
+Successfully downloaded:HST_ANY_WFC3_IR,12568,WFC3/IR
+Error in downloading:HST_AUMIC_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Successfully downloaded:HST_CCDFLAT_WFC3_IR,13665,WFC3/IR
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Successfully downloaded:HST_CCDFLAT_WFC3_IR,14110,WFC3/IR
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Successfully downloaded:HST_CCDFLAT_WFC3_IR,14767,WFC3/IR
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CCDFLAT_STIS_CCD
+Error in downloading:HST_CD383220_STIS_CCD
+Error in downloading:HST_EPIC201912552_STIS_CCD
+Successfully downloaded:HST_EPIC201912552_WFC3_IR,13665,WFC3/IR
+Successfully downloaded:HST_GJ1214_WFC3_IR,13021,WFC3/IR
+Successfully downloaded:HST_GJ1214FEB2018_WFC3_IR,15400,WFC3/IR
+Successfully downloaded:HST_GJ436_WFC3_IR,11622,WFC3/IR
+Error in downloading:HST_GJ436_STIS_CCD
+Error in downloading:HST_GJ436_STIS_CCD
+Successfully downloaded:HST_GJ436_WFC3_IR,13665,WFC3/IR
+Error in downloading:HST_GJ436_STIS_CCD
+Error in downloading:HST_GJ1214_STIS_CCD
+Successfully downloaded:HST_GJ1214_WFC3_IR,12251,WFC3/IR
+Successfully downloaded:HST_GJ1214_WFC3_IR,12325,WFC3/IR
+Error in downloading:HST_GJ1214_STIS_CCD
+Error in downloading:HST_GJ436_STIS_CCD
+Error in downloading:HST_GJ436_STIS_CCD
+Successfully downloaded:HST_GJ436_WFC3_IR,13338,WFC3/IR
+Error in downloading:HST_GJ436_STIS_CCD
+Successfully downloaded:HST_GSC0498000761_WFC3_IR,14169,WFC3/IR
+Successfully downloaded:HST_HAT12_WFC3_IR,12181,WFC3/IR
+Successfully downloaded:HST_HATP11_WFC3_IR,12449,WFC3/IR
+Error in downloading:HST_HATP11_STIS_CCD
+Successfully downloaded:HST_HATP11_WFC3_IR,14767,WFC3/IR
+Successfully downloaded:HST_HATP11_WFC3_IR,14793,WFC3/IR
+Error in downloading:HST_HATP12_STIS_CCD
+Successfully downloaded:HST_HATP12_WFC3_IR,14260,WFC3/IR
+Error in downloading:HST_HATP12_STIS_CCD
+Error in downloading:HST_RHOCNC_STIS_CCD
+Error in downloading:HST_RHOCNC_STIS_CCD
+Error in downloading:HST_HATP12_WFC3_UVIS
+Error in downloading:HST_HATP26_STIS_CCD
+Error in downloading:HST_RHOCNC_STIS_CCD
+Error in downloading:HST_HATP26_WFC3_IR
+Error in downloading:HST_RHOCNC_STIS_CCD
+Error in downloading:HST_2MASSJ230629280502285_WFC3_IR
+Error in downloading:HST_CD383220_STIS_CCD
+Error in downloading:HST_EPIC201912552_STIS_CCD
+Successfully downloaded:HST_EPIC201912552_WFC3_IR,13665,WFC3/IR
+Successfully downloaded:HST_GJ1214_WFC3_IR,13021,WFC3/IR
+Successfully downloaded:HST_GJ1214FEB2018_WFC3_IR,15400,WFC3/IR
+Successfully downloaded:HST_GJ436_WFC3_IR,11622,WFC3/IR
+Error in downloading:HST_GJ436_STIS_CCD
+Error in downloading:HST_GJ436_STIS_CCD
+Successfully downloaded:HST_GJ436_WFC3_IR,13665,WFC3/IR
+Error in downloading:HST_GJ436_STIS_CCD
+Error in downloading:HST_GJ1214_STIS_CCD
+Successfully downloaded:HST_GJ1214_WFC3_IR,12251,WFC3/IR
+Successfully downloaded:HST_GJ1214_WFC3_IR,12325,WFC3/IR
+Error in downloading:HST_GJ1214_STIS_CCD
+Error in downloading:HST_GJ436_STIS_CCD
+Error in downloading:HST_GJ436_STIS_CCD
+Successfully downloaded:HST_GJ436_WFC3_IR,13338,WFC3/IR
+Error in downloading:HST_GJ436_STIS_CCD
+Successfully downloaded:HST_GSC0498000761_WFC3_IR,14169,WFC3/IR
+Error in downloading:HST_HAT12_WFC3_IR
+Successfully downloaded:HST_HATP11_WFC3_IR,12449,WFC3/IR
+Error in downloading:HST_HATP11_STIS_CCD
+Successfully downloaded:HST_HATP11_WFC3_IR,14767,WFC3/IR
+Successfully downloaded:HST_HATP11_WFC3_IR,14793,WFC3/IR
+Error in downloading:HST_HATP12_STIS_CCD
+Successfully downloaded:HST_HATP12_WFC3_IR,14260,WFC3/IR
+Error in downloading:HST_HATP12_STIS_CCD
+Error in downloading:HST_HATP12_WFC3_UVIS
+Error in downloading:HST_HATP26_STIS_CCD
+Successfully downloaded:HST_HATP26_WFC3_IR,14110,WFC3/IR
+Successfully downloaded:HST_HATP26_WFC3_IR,14260,WFC3/IR
+Error in downloading:HST_HATP26_STIS_CCD
+Successfully downloaded:HST_HATP26_WFC3_IR,14767,WFC3/IR
+Error in downloading:HST_HATP26_STIS_CCD
+Error in downloading:HST_HATP26_WFC3_UVIS
+Error in downloading:HST_HD189733_STIS_CCD
+Error in downloading:HST_HD189733_STIS_CCD
+Error in downloading:HST_HD189733_STIS_CCD
+Successfully downloaded:HST_HD189733_WFC3_IR,11740,WFC3/IR
+Error in downloading:HST_HD189733_STIS_CCD
+Error in downloading:HST_HD189733_STIS_CCD
+Successfully downloaded:HST_HD189733B_WFC3_IR,16180,WFC3/IR
+Error in downloading:HST_HD075732_STIS_CCD
+Successfully downloaded:HST_HD189733_WFC3_IR,12181,WFC3/IR
+Successfully downloaded:HST_HD189733_WFC3_IR,12881,WFC3/IR
+Error in downloading:HST_HD189733_STIS_CCD
+Error in downloading:HST_K218_WFC3_IR
+Error in downloading:HST_K218_STIS_CCD
+Successfully downloaded:HST_K23_WFC3_IR,14682,WFC3/IR
+Error in downloading:HST_LHS310_STIS_CCD
+Error in downloading:HST_LHS310UPDATED_STIS_CCD
+Error in downloading:HST_VAUMIC_STIS_CCD
+Successfully downloaded:HST_VAUMIC1_WFC3_IR,15836,WFC3/IR
+Successfully downloaded:HST_WASP12_WFC3_IR,12181,WFC3/IR
+Successfully downloaded:HST_WASP12_WFC3_IR,12230,WFC3/IR
+Error in downloading:HST_WASP12_STIS_CCD
+Successfully downloaded:HST_WASP12_WFC3_IR,13467,WFC3/IR
+Error in downloading:HST_WASP12_STIS_CCD
+Successfully downloaded:HST_WASP12_WFC3_IR,16236,WFC3/IR
+Successfully downloaded:HST_WASP121_WFC3_IR,14468,WFC3/IR
+Error in downloading:HST_WASP121_STIS_CCD
+Successfully downloaded:HST_WASP121_WFC3_IR,14767,WFC3/IR
+Successfully downloaded:HST_WASP121_WFC3_IR,15134,WFC3/IR
+Successfully downloaded:HST_WASP121_WFC3_IR,15135,WFC3/IR
+Successfully downloaded:HST_WASP17_WFC3_IR,12181,WFC3/IR
+Error in downloading:HST_WASP17_STIS_CCD
+Successfully downloaded:HST_WASP17_WFC3_IR,14918,WFC3/IR
+Error in downloading:HST_WASP17_STIS_CCD
+Error in downloading:HST_WASP17_WFC3_UVIS
+Successfully downloaded:HST_WASP19_WFC3_IR,12181,WFC3/IR
+Error in downloading:HST_WASP19_STIS_CCD
+Successfully downloaded:HST_WASP19CEN_WFC3_IR,13431,WFC3/IR
+Error in downloading:HST_WASP39_STIS_CCD
+Successfully downloaded:HST_WASP39_WFC3_IR,14260,WFC3/IR
+Error in downloading:HST_WASP39B_WFC3_UVIS
