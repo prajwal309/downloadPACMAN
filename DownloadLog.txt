@@ -136,3 +136,27 @@ Successfully downloaded:HST_WASP19CEN_WFC3_IR,13431,WFC3/IR
 Error in downloading:HST_WASP39_STIS_CCD
 Successfully downloaded:HST_WASP39_WFC3_IR,14260,WFC3/IR
 Error in downloading:HST_WASP39B_WFC3_UVIS
+*************************************************************
+*************************************************************
+Successfully downloaded:HST_HD189733_STIS,ib1c05010,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c05020,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c05030,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c05040,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c05050,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c06010,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c06020,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c06030,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c06040,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1c06050,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca5010,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca5020,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca5030,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca5040,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca5050,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca5tpq,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca6010,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca6020,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca6030,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca6040,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca6050,STIS
+Successfully downloaded:HST_HD189733_STIS,ib1ca6qaq,STIS

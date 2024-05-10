@@ -36,6 +36,8 @@ for Counter, TargetName in enumerate(AllUniqueTargetName):
         SelectedInstruments = np.unique(AllInstrumentName[AllProposalIDs==ProposalID])
         
         for Instrument in SelectedInstruments:
+           
+
             SaveFolder = "HST_"+TargetName.replace(" ", "").replace("-","")+"_"+Instrument
             SaveFolder = SaveFolder.replace("/","_")
             
@@ -50,10 +52,13 @@ for Counter, TargetName in enumerate(AllUniqueTargetName):
             print("The save folder is: ", SaveFolder)
             print("The proposal ID is: ", ProposalID)
             print("*"*100)
-
-            proposal_obs = Observations.query_criteria(proposal_id=int(ProposalID), instrument_name=Instrument, project='HST')
-            data_products = Observations.get_product_list(proposal_obs)
-            
+           
+            try:
+                proposal_obs = Observations.query_criteria(proposal_id=int(ProposalID), instrument_name=Instrument, project='HST')
+                data_products = Observations.get_product_list(proposal_obs)
+            except:
+                print("Error in getting the data products for:", ProposalID, SaveFolder)
+                continue
 
             data_products_ima = data_products[data_products['productSubGroupDescription'] == 'IMA']
             
